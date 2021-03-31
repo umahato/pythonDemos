@@ -1,0 +1,30 @@
+1. What is Pyhton.
+
+> Python is a general purpost , high level, interpreted language with easy syntax and dynamic semantics.
+> Created by Guido Van Rossum in 1989
+
+2. Why is Pyhton.
+>   easy
+>   free
+>   application
+>   Library and Support.
+
+
+3. Features.
+>   Simplicity
+>   Open Source
+>   Portability
+>   Embeddable & Extensible
+>   interpreted
+>   Huge Library
+>   Object Orientation
+
+
+### Data Types
+
+1. Numbers
+2. String
+3. List
+4. Dictionary
+5. Tuple
+6. set 

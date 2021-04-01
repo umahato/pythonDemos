@@ -28,3 +28,13 @@
 4. Dictionary
 5. Tuple
 6. set 
+
+
+
+# Type Conversion
+1. int()        - This function changes any data type to integer data type
+2. float()      - This function changes any data type to float data type
+3. tuple()      - This function changes any data type to tuple
+4. list()       - This function changes any data type to a list
+5. set()        - This function changes any data type to a set
+6. dict()       - This function changes any data type to a dictionary.

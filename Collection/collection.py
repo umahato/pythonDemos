@@ -51,11 +51,18 @@ print(d)
 d.popleft()
 print(d)
 
-'''
 
-c. Chainmap - is a Dictionary like class for creating a single view of multiple mappings
+
+#c. Chainmap - is a Dictionary like class for creating a single view of multiple mappings
 
 A = {1:'edureka',2:'python'}
 B = {3:'data science',4: 'AI'}
 
 [{1:'edureka',2:'python'},{3:'data science',4:'AI'}]
+
+'''
+
+from collections import Counter
+a = [1,1,2,3,2,2,4,5,4,5,4,6,2,6,3]
+c = Counter(a)
+print(c)

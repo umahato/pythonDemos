@@ -1,0 +1,4 @@
+Built-in  objects in python have a variety of methods you can use.
+Functions -  Allows us to create blocks of code that can be easily executed many times without needing
+to contantly rewrite the entire block of code.
+
